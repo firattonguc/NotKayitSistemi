@@ -1,0 +1,12 @@
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\bin\Debug\notkayıt.exe.config
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\bin\Debug\notkayıt.exe
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\bin\Debug\notkayıt.pdb
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.csproj.AssemblyReference.cache
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.frmgiris.resources
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.frmogrencidetay.resources
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.frmogretmendetay.resources
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.Properties.Resources.resources
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.csproj.GenerateResource.cache
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.csproj.CoreCompileInputs.cache
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.exe
+C:\Users\firat\Desktop\udemy projeler\notkayıt\notkayıt\obj\Debug\notkayıt.pdb
